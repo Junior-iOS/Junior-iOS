@@ -29,6 +29,8 @@ I love to build user-friendly, scalable, and easy-to-maintain iOS applications. 
 ![Junior-iOS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junior-iOS&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-iOS&layout=compact&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Junior-iOS&theme=onedark)](https://github.com/Junior-iOS/github-profile-trophy)
+
 <!-- ## 🛠️ Projects
 
 Here are some of my notable projects:
