@@ -35,13 +35,13 @@ I love to build user-friendly, scalable, and easy-to-maintain iOS applications. 
 
 Here are some of my notable projects:
 
-# Easy Numbers - Gerador de Jogos da Loteria 🎲
+# Jogos Lotérica - Gerador de Jogos da Loteria 🎲
 
 [![App Store](https://img.shields.io/badge/Download-00875F?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/br/app/jogos-lotérica/id6449045730?l=en-GB)
 
 ## Sobre o Projeto
 
-O Easy Numbers é um aplicativo iOS desenvolvido para facilitar a geração de jogos da loteria. Com uma interface intuitiva e recursos avançados, o app permite que usuários criem e gerenciem seus jogos de forma simples e eficiente.
+O Jogos Lotérica é um aplicativo iOS desenvolvido para facilitar a geração de jogos da loteria. Com uma interface intuitiva e recursos avançados, o app permite que usuários criem e gerenciem seus jogos de forma simples e eficiente.
 
 ### Principais Funcionalidades ✨
 
@@ -62,7 +62,7 @@ O Easy Numbers é um aplicativo iOS desenvolvido para facilitar a geração de j
 - Atualização em tempo real dos widgets
 - Suporte a todas as loterias principais
 
-O Easy Numbers é a ferramenta perfeita para quem busca praticidade e organização na hora de fazer seus jogos da loteria.
+O Jogos Lotérica é a ferramenta perfeita para quem busca praticidade e organização na hora de fazer seus jogos da loteria.
 
 <!-- ### [Project 2](https://github.com/Junior-iOS/Project2)
 A brief description of what Project 2 does and its key features.
