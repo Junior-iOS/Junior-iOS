@@ -31,14 +31,40 @@ I love to build user-friendly, scalable, and easy-to-maintain iOS applications. 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Junior-iOS&theme=onedark)](https://github.com/Junior-iOS/github-profile-trophy)
 
-<!-- ## 🛠️ Projects
+## 🛠️ Projects
 
 Here are some of my notable projects:
 
-### [Project 1](https://github.com/Junior-iOS/Project1)
-A brief description of what Project 1 does and its key features.
+# Easy Numbers - Gerador de Jogos da Loteria 🎲
 
-### [Project 2](https://github.com/Junior-iOS/Project2)
+[![App Store](https://img.shields.io/badge/Download-00875F?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/br/app/jogos-lotérica/id6449045730?l=en-GB)
+
+## Sobre o Projeto
+
+O Easy Numbers é um aplicativo iOS desenvolvido para facilitar a geração de jogos da loteria. Com uma interface intuitiva e recursos avançados, o app permite que usuários criem e gerenciem seus jogos de forma simples e eficiente.
+
+### Principais Funcionalidades ✨
+
+- **Geração Inteligente**: Crie jogos aleatórios para Mega-Sena, Lotofácil, Quina, Lotomania e Timemania
+- **Salvamento de Jogos**: Armazene seus jogos favoritos para consulta posterior
+- **Widgets Personalizados**: Acesse seus jogos salvos diretamente da tela inicial do iPhone
+- **Live Activities**: Acompanhe em tempo real quando um novo jogo é salvo
+- **Compartilhamento**: Envie seus jogos facilmente para amigos e família
+- **Interface Adaptativa**: Design otimizado para iPhone e iPad
+- **Modo Escuro**: Suporte nativo ao tema escuro do iOS
+
+### Diferenciais 🌟
+
+- Autenticação por Face ID para maior segurança
+- Notificações personalizadas
+- Backup automático dos jogos
+- Interface moderna e intuitiva
+- Atualização em tempo real dos widgets
+- Suporte a todas as loterias principais
+
+O Easy Numbers é a ferramenta perfeita para quem busca praticidade e organização na hora de fazer seus jogos da loteria.
+
+<!-- ### [Project 2](https://github.com/Junior-iOS/Project2)
 A brief description of what Project 2 does and its key features.
 
 ### [Project 3](https://github.com/Junior-iOS/Project3)
